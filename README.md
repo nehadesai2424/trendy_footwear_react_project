@@ -1,3 +1,29 @@
+# Trendy Footwear - React E-commerce Website 
+Welcome to Trendy Footwear, a modern and stylish e-commerce website built with React.js! This project showcases a wide range of footwear collections, allowing users to browse, add to cart, and manage their shopping experience seamlessly.
+
+## Overview :
+✅ React.js for a dynamic and responsive UI.
+✅ React Router for smooth navigation across product categories.
+✅ State management for handling cart and user interactions.
+✅ Form validation for secure and structured user inputs (e.g., checkout).
+✅ Mock API for fetching and managing product data.
+
+## Tech Stack :
+React.js for front-end development
+React Router for navigation
+Axios / Fetch API for data handling
+Bootstrap / CSS for styling
+Redux for state management
+
+## Features :
+✅ Browse and filter footwear collections
+✅ Add to cart and manage orders
+✅ Submit product reviews with validation
+✅ Responsive and mobile-friendly design
+
+## Get Started
+Check out the installation guide and setup instructions in the README to run the project locally.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
